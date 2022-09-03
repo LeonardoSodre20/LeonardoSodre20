@@ -1,7 +1,6 @@
 Olá , Eu sou o Leonardo Vieira
 
 - 🎮 Formado em Jogos Digitais...
-- 📗 Estudando HTML, CSS, Javascript e C#...
 - ☎ Contato: LeonardoSodre25@outlook.com
 
 <div align="center">
