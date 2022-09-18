@@ -1,10 +1,10 @@
 Olá , Eu sou o Leonardo Vieira
 
 - 🎮 Formado em Jogos Digitais...
-- ☎ Contato: LeonardoSodre25@outlook.com
+-  Atualmente trabalho como Desenvolvedor Full Stack
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/LeonardoSodre20/LeonardoSodre20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSodre20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSodre20&layout=compact&langs_count=7&theme=dark"/>
 </div>
