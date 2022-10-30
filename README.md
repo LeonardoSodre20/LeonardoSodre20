@@ -2,7 +2,7 @@ Olá , Eu sou o Leonardo Vieira
 
 - 🎮 Formado em Jogos Digitais pela Universidade de Sorocaba
 - 💻 Atualmente trabalho como Desenvolvedor Full Stack
-- 👦 Tenho 21 Anos
+- 👦 Tenho 22 Anos
 
 <div align="center">
   <a href="https://github.com/LeonardoSodre20/LeonardoSodre20">
