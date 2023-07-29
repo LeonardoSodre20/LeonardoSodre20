@@ -26,7 +26,7 @@ Olá , Eu sou o Leonardo Vieira
   ##
   
   <div align="center">
-  <a href="https://www.linkedin.com/in/leonardo-sodr%C3%A9-454a671a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/leonardo-sodr%C3%A9-454a671a3/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
   
    
