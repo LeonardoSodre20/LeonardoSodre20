@@ -54,14 +54,6 @@ I'm a Frontend Developer with a degree in Digital Games from Universidade de Sor
 
 ---
 
-## 🏆 GitHub Highlights
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeonardoSodre20&theme=darkhub&row=1&column=6" />
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
