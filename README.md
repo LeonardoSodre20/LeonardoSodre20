@@ -6,12 +6,6 @@ I'm a Frontend Developer with a degree in Digital Games from Universidade de Sor
 - 💻 Full Stack Developer  
 - 🎯 24 years old  
 
-<div align="center">
-  <a href="https://github.com/LeonardoSodre20/LeonardoSodre20">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSodre20&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
 ---
 
 ## 🚀 Tech Stack
