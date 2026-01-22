@@ -3,8 +3,7 @@
 I'm a Frontend Developer with a degree in Digital Games from Universidade de Sorocaba, focused on building modern, scalable web applications with clean code and strong business understanding.
 
 - 🎮 Bachelor's degree in Digital Games – Universidade de Sorocaba  
-- 💻 Full Stack Developer  
-- 🎯 24 years old  
+- 💻 Frontend Developer  
 
 ---
 
@@ -49,6 +48,7 @@ I'm a Frontend Developer with a degree in Digital Games from Universidade de Sor
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 </div>
 
