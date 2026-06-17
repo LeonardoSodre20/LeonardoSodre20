@@ -59,7 +59,7 @@ I'm a Frontend Developer with Full Stack experience, passionate about building m
 
 ## 🤖 AI-Assisted Development
 
-Leveraging AI-powered tools to accelerate software development, improve code quality, assist with architecture decisions, automate workflows, and enhance developer productivity.
+Leveraging AI-powered tools to accelerate software development, improve code quality, support architectural decisions, automate workflows, and enhance developer productivity.
 
 <div align="center">
 
@@ -83,10 +83,14 @@ Leveraging AI-powered tools to accelerate software development, improve code qua
 
 ## 🌱 Currently Learning
 
-* Advanced React Patterns
-* AI Engineering & MCP Ecosystem
-* Swift & iOS Development
-* Software Architecture
+Currently expanding my expertise in:
+
+* ☕ Java
+* 🍃 Spring Boot
+* ☁️ AWS Cloud Services
+* 🏗️ Software Architecture & Design Patterns
+* 🤖 AI Engineering & MCP Ecosystem
+* ⚛️ Advanced React Patterns
 
 ---
 
